@@ -39,7 +39,6 @@ const anaSobrino = {
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
-
 <h3> 📊 &nbsp;Github Analytics</h3>
 
 <p>
@@ -48,8 +47,6 @@ const anaSobrino = {
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anasonu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-<br/>
 
 <h3> 📫 &nbsp;Contact </h3>
 
