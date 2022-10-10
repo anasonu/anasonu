@@ -40,19 +40,19 @@ const anaSobrino = {
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
 
-<br/>
+<h3> 📊 &nbsp;Github Analytics</h3>
 
 <a href="https://github.com/anasonu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anasonu&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasonu&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anasonu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anasonu&layout=compact&langs_count=8&theme=algolia" />
 </a>
 
 <br/>
 
 <h3> 📫 &nbsp;Contact </h3>
 
-<p align="center">
-<a href="https://anasonu.netlify.app/"><img alt="Website" src="https://shields.io/badge/Website-www.anasonu.com-F5F8FA?style=flat-square&logo=google-chrome"></a> &nbsp;
-<a href="https://www.linkedin.com/in/anasonu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ana%20Sobrino-F5F8FA?style=flat-square&logo=linkedin"></a> &nbsp;
-<a href="mailto:asobrinonunez@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-asobrinonunez@gmail.com-F5F8FA?style=flat-square&logo=gmail"></a>
+<p>
+<a href="https://anasonu.netlify.app/"><img src="https://img.shields.io/badge/-anasonu.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>&nbsp;
+<a href="https://linkedin.com/in/anasonu"><img src="https://img.shields.io/badge/-Ana%20Sobrino-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:asobrinonunez@gmail.com"><img src="https://img.shields.io/badge/-asobrinonunez@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
