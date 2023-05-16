@@ -10,7 +10,7 @@ const anaSobrino = {
 
 <h3> 👩🏽‍💻 &nbsp;About Me </h3>
 
-- 💡 &nbsp; Product Manager turned Software Engineer.
+- 💡 &nbsp; Product Manager turned Software Developer.
 - 👩🏽‍🎨 &nbsp; Started in tech as a UX Designer. Eventually became a Product Manager.
 - 💼 &nbsp; Currently working on personal projects.
 - 🌱 &nbsp; Learning more about TDD Testing and Typescript.
