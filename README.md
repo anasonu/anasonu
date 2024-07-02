@@ -2,18 +2,17 @@
 
 ```js
 const anaSobrino = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Node]
+  code: [Javascript, Typescript, React, Redux, Node, Php, Laravel, HTML, CSS],
+  db: [MongoDB, SQL],
+  tools: [Docker, Figma, Jira, Azure Devops]
 }
 ```
 
 <h3> 👩🏽‍💻 &nbsp;About Me </h3>
 
-- 💡 &nbsp; Product Manager turned Software Developer.
-- 👩🏽‍🎨 &nbsp; Started in tech as a UX Designer. Eventually became a Product Manager.
-- 💼 &nbsp; Currently working on personal projects.
-- 🌱 &nbsp; Learning more about TDD Testing and Typescript.
+- 👩🏽‍🎨 &nbsp; Started in tech as a UX Designer.
+- 💼 &nbsp; Currently working as a Software Developer at IAGT 'Amazing Software'.
+- 🌱 &nbsp; Learning more about TDD Testing.
 - ✍️ &nbsp; Pursuing UI Design as hobbie/side hustle.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
