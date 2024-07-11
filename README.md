@@ -1,6 +1,6 @@
 <h2> Hey there! 👋🏼 I'm Ana</h2>
 
-I turn ideas into code, colors into illustrations, and time with my dog into the best part of the day 🤘🏼.
+I turn ideas into code and empty pages into illustrations 🤘🏼.
 
 <h4> About Me </h4>
 
