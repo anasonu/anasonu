@@ -32,7 +32,7 @@ I turn ideas into code, colors into illustrations, and time with my dog into the
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
   
-<h3> 📫 &nbsp;Contact </h3>
+<h4> Contact </h4>
 
 <p>
 <a href="https://anasonu.netlify.app/"><img src="https://img.shields.io/badge/-anasonu.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>&nbsp;
