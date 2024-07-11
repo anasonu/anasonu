@@ -1,56 +1,40 @@
-<h2> Hey there! I'm Ana.</h2>
+<h2> Hey there! 👋🏼 I'm Ana</h2>
 
-```js
-const anaSobrino = {
-  code: [Javascript, Typescript, React, Redux, Node, Php, Laravel, HTML, CSS],
-  db: [MongoDB, SQL],
-  tools: [Docker, Figma, Jira, Azure Devops]
-}
-```
+I turn ideas into code, colors into illustrations, and time with my dog into the best part of the day 🤘🏼.
 
-<h3> 👩🏽‍💻 &nbsp;About Me </h3>
+<h4> About Me </h4>
 
-- 👩🏽‍🎨 &nbsp; Started in tech as a UX Designer.
-- 💼 &nbsp; Currently working as a Software Developer at IAGT 'Amazing Software'.
-- 🌱 &nbsp; Learning more about TDD Testing.
-- ✍️ &nbsp; Pursuing UI Design as hobbie/side hustle.
+- 💼 &nbsp; I work as a Frontend Developer at IAGT 'Amazing Software'.
+- 🌱 &nbsp; Currently learning TDD.
+- 📑 &nbsp; Previous experience as Product Manager.
+- 🫣 &nbsp; I love Frontend development but I like flirting with Backend.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h4>Tech Stack</h4>
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-- 🖥 &nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/laravel.svg"></code>
+<br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+<br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/svgs/brands/docker.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></code>
   
-<h3> 📊 &nbsp;Github Analytics</h3>
-
-<p>
-<a href="https://github.com/anasonu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anasonu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anasonu&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 <h3> 📫 &nbsp;Contact </h3>
 
 <p>
 <a href="https://anasonu.netlify.app/"><img src="https://img.shields.io/badge/-anasonu.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>&nbsp;
 <a href="https://linkedin.com/in/anasonu"><img src="https://img.shields.io/badge/-Ana%20Sobrino-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:asobrinonunez@gmail.com"><img src="https://img.shields.io/badge/-asobrinonunez@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
